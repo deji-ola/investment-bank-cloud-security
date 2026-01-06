@@ -3,7 +3,40 @@
 ## Overview
 
 Enterprise-grade Cloud Security Posture Management (CSPM) implementation designed for investment banking regulatory requirements. This Terraform-based solution provides automated security monitoring, compliance validation, and threat detection across AWS environments.
+## 📸 Live Deployment Evidence
 
+This project is deployed and operational in AWS account `491085391714` (London region).
+
+### Deployment Screenshots
+
+**AWS Security Hub - Multiple Compliance Standards**
+![Security Hub Standards](../../docs/screenshots/security-hub-standards.png)
+
+*Security Hub enabled with CIS AWS Foundations Benchmark v1.4.0, PCI DSS v3.2.1, and AWS Foundational Security Best Practices.*
+
+---
+
+**Amazon GuardDuty - Threat Detection Active**
+![GuardDuty Summary](../../docs/screenshots/guardduty-summary.png)
+
+*GuardDuty detector operational with ML-powered threat detection across VPC Flow Logs, DNS queries, and S3 events.*
+
+---
+
+**Terraform Deployment Outputs**
+![Terraform Outputs](../../docs/screenshots/terraform-outputs.png)
+
+*Infrastructure-as-Code deployment showing all resource IDs and ARNs.*
+
+---
+
+### Architecture
+
+For detailed architecture documentation, see [ARCHITECTURE.md](../../docs/ARCHITECTURE.md)
+
+For investment banking use cases, see [Case Studies](../../docs/case-studies/INVESTMENT-BANKING-SCENARIOS.md)
+
+---
 ## 🎯 Business Context
 
 Investment banks require:
