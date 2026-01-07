@@ -1,70 +1,78 @@
 # Investment Banking Cloud Security - Professional Portfolio
 
 **Deji Ewuola** | Senior AWS Solutions Architect  
-**Specialization:** Multi-Cloud Security | DevSecOps | Financial Services Compliance
+**Current Role:** Metro Bank (Nov 2022 - Present)  
+**Specialization:** Multi-Cloud Security | DevSecOps | Financial Services
 
 ---
 
 ## 👨‍💼 About This Portfolio
 
-This repository demonstrates **enterprise-grade cloud security architecture** for investment banking, based on real-world implementations at **Tier-1 UK banks**. The projects showcase security patterns, compliance automation, and DevSecOps practices I've deployed in production banking environments.
+This repository demonstrates **enterprise-grade cloud security patterns** for investment banking. The implementations are **reference architectures** built to showcase technical capabilities developed over **10+ years in financial services cloud transformations**.
 
-**Purpose**: Reference implementations proving hands-on capability to architect, build, and deliver cloud security solutions that meet investment banking regulatory requirements.
+**Purpose**: Prove hands-on capability to architect, build, and deliver cloud security solutions that meet investment banking regulatory requirements.
+
+**Note**: These are personal reference implementations demonstrating security patterns and automation techniques. They do not contain or reference any proprietary code, configurations, or data from current or former employers.
 
 ---
 
 ## 💼 Professional Background
 
-### NatWest Bank (2020-2023)
-**Senior Cloud Security Architect**
-- Architected **Cloud Security Posture Management** across **350+ AWS accounts** and Azure environments
-- Automated compliance monitoring for **PRA regulatory requirements**
-- Reduced critical security findings by **40%** through automated remediation
-- Managed stakeholder alignment across **15+ teams** (CISO office, platform engineering, application owners)
-- Delivered enterprise-scale security transformation under regulatory pressure
+### Metro Bank (Nov 2022 - Present)
+**Senior AWS Solutions Architect**
+- Currently leading cloud architecture initiatives for core banking systems
+- Focus on scalable, secure banking infrastructure
+- Multi-cloud environment expertise (AWS, Azure)
+- Driving modernization and cloud adoption strategies
 
-### Metro Bank (2018-2020)
-**Cloud Solutions Architect - Payment Systems**
-- Led **payment system cloud modernization** to cloud-native architecture
-- Implemented **DevSecOps pipeline** with Terraform and GitOps workflows
-- Achieved **zero unplanned downtime** during migration of revenue-critical systems
-- Improved payment processing performance by **30%**
-- Built trusted advisor relationship with C-suite through transparent communication
+### NatWest Banking Group (Dec 2020 - Oct 2022)
+**AWS Solutions Architect**
+- Provided technical leadership for core banking modernization across 50+ AWS accounts
+- Shaped cloud strategy collaborating with business partners and technical teams
+- Translated complex business requirements into scalable technical solutions
+- Delivered solutions for highly regulated banking environment
 
-### Previous Experience (2014-2018)
-- **Business Analysis & Agile Leadership**: Requirement gathering, stakeholder management, prioritization frameworks
-- **Operations Management**: Oil & gas downstream distribution (Nigeria) - operational perspective that differentiates my architecture approach
+### Infosys Ltd (Jan 2019 - Nov 2020)
+**AWS Pre-Sales Solutions Architect**
+- Designed cloud solutions for enterprise financial services clients
+- Pre-sales technical leadership and architecture consulting
+- AWS solution design and migration planning
+- Client engagement and requirement gathering
+
+### Previous Experience (2012-2018)
+- **Ubertas Consulting** (Oct 2016 - Dec 2018): AWS Cloud Migration Analyst
+- **Digital Bananas Technology** (Nov 2014 - Sept 2016): Agile Project Manager/Scrum Master
+- **Cognizant** (Jul 2012 - Oct 2014): Business Analyst
 
 ---
 
 ## 🏗️ Portfolio Projects
 
 ### 1. ✅ AWS Multi-Cloud Security Baseline
-**Status**: Live Implementation  
+**Status**: Reference Implementation  
 **Focus**: Investment banking CSPM, compliance automation, threat detection
 
 **What It Demonstrates:**
-- AWS Security Hub with **CIS, PCI DSS, AWS Foundational** standards
-- GuardDuty threat detection with **ML-powered anomaly detection**
-- AWS Config for **continuous compliance monitoring**
-- **Event-driven automation** (EventBridge + Lambda)
-- **Infrastructure as Code** with Terraform
-- **Investment banking security patterns** (encryption, audit trails, automated remediation)
+- AWS Security Hub with CIS, PCI DSS, AWS Foundational standards
+- GuardDuty threat detection with ML-powered anomaly detection
+- Event-driven automation (EventBridge + Lambda)
+- Infrastructure as Code with Terraform
+- Investment banking security patterns (encryption, audit trails, compliance)
+- DevSecOps automation and GitOps workflows
 
-**Real-World Basis**: Architecture patterns from NatWest CSPM implementation, adapted for investment banking requirements (MiFID II, enhanced monitoring, ultra-low risk tolerance)
+**Technical Basis**: Security patterns and practices developed through banking experience, adapted to demonstrate multi-cloud security capabilities for investment banking requirements (MiFID II, PRA, GDPR compliance).
 
 **[View Project →](./01-multi-cloud-cspm/)**
 
 ---
 
-### 2. 🚧 DevSecOps Pipeline (Coming Soon)
-GitOps workflow with policy-as-code enforcement for financial services.
+### 2. 🚧 Investment Banking Case Studies (Available)
+Real-world security scenarios and solutions for investment banking:
+- Trading desk data segregation (Chinese Walls)
+- Real-time fraud detection for payment processing
+- Multi-region disaster recovery for trading systems
 
-### 3. 🚧 Multi-Cloud Integration (Coming Soon)
-AWS + Azure security event correlation for unified SIEM.
-
-### 4. 🚧 Investment Banking Case Studies (Coming Soon)
-Real-world security architecture scenarios and solutions.
+**[View Case Studies →](./docs/case-studies/)**
 
 ---
 
@@ -94,48 +102,55 @@ PRA | MiFID II | GDPR | PCI DSS | CIS Benchmarks
 
 ## 🎯 What Makes This Portfolio Different
 
-### Not Just Theory - Proven at Scale
-- These aren't tutorial projects - they're **reference implementations** of architectures I've deployed in production
-- Based on **10+ years of financial services experience**
-- Patterns validated by **real regulatory audits** (PRA, internal compliance)
-- Reflects understanding of **investment banking operational reality**
+### Professional Banking Experience
+- Over 10 years in financial services technology
+- Currently architecting solutions at Metro Bank
+- Previous experience at NatWest, Infosys in banking sector
+- Deep understanding of regulatory requirements and compliance
 
-### Investment Banking Context
-- **Ultra-low risk tolerance**: Automated remediation, not just detection
-- **Regulatory compliance**: MiFID II 7-year retention, real-time reporting
-- **Stakeholder complexity**: Built for environments with competing priorities (trading desks, compliance, operations)
-- **Business continuity**: Zero-downtime deployment patterns for revenue-critical systems
-
-### Hands-On Capability
-- Can **architect** enterprise solutions (proven at NatWest/Metro)
+### Hands-On Technical Capability
+- Can **architect** enterprise solutions (proven in banking roles)
 - Can **build** from scratch (this portfolio proves it)
 - Can **automate** security at scale (DevSecOps mindset)
-- Can **communicate** to technical and executive audiences (documentation demonstrates this)
+- Can **communicate** to technical and executive audiences
+
+### Investment Banking Readiness
+- Understanding of ultra-low risk tolerance requirements
+- Experience with highly regulated banking environments
+- Knowledge of trading systems, payment platforms, and compliance
+- Multi-cloud architecture expertise (AWS + Azure)
 
 ---
 
 ## 📈 Professional Journey
 ```
-2014-2018: Operations & Business Analysis
-           ↓ (Developed operational lens + stakeholder management)
+2012-2014: Business Analysis (Cognizant)
+           ↓ Foundation in requirement gathering & stakeholder management
            
-2018-2020: Metro Bank - Payment Cloud Modernization  
-           ↓ (Learned cloud-native architecture in regulated environment)
+2014-2016: Agile Project Management (Digital Bananas)
+           ↓ Developed agile leadership & delivery skills
            
-2020-2023: NatWest - Enterprise CSPM (350+ accounts)
-           ↓ (Mastered multi-cloud security at scale)
+2016-2018: Cloud Migration (Ubertas Consulting)
+           ↓ Started AWS journey with migration projects
            
-2024-Present: Targeting Investment Banking Cloud Security
-              Building portfolio demonstrating consultancy-ready skills
+2019-2020: Pre-Sales Architecture (Infosys)
+           ↓ Client-facing architecture & solution design
+           
+2020-2022: Banking Modernization (NatWest - 50+ AWS accounts)
+           ↓ Enterprise-scale cloud architecture in regulated environment
+           
+2022-Present: Senior Cloud Architecture (Metro Bank - Current)
+              Leading cloud initiatives for core banking systems
 ```
 
 ---
 
-## 🎓 Certifications & Education
+## 🎓 Education & Continuous Learning
 
 - **Master's Degree**: Oil and Gas Engineering
-- **AWS Solutions Architect Professional**: In Progress
+- **AWS Certifications**: Solutions Architect Professional (In Progress)
 - **10+ Years**: Financial Services Cloud Transformations
+- **Continuous**: Hands-on labs, reference implementations, staying current
 
 ---
 
@@ -143,33 +158,30 @@ PRA | MiFID II | GDPR | PCI DSS | CIS Benchmarks
 
 **GitHub**: [github.com/deji-ola](https://github.com/deji-ola)  
 **Location**: London, UK  
-**Target Roles**: Cloud Security Architect (Investment Banking), Security Consultant (Financial Services)
-
-**Open to**: Consultancy engagements, permanent roles, contract positions in investment banking cloud security
+**Open to**: Cloud Security Architect roles (Investment Banking), Security Consultant positions (Financial Services)
 
 ---
 
 ## 📝 Repository Information
 
 **Portfolio Created**: January 2026  
-**Based On**: Real production architectures deployed 2020-2023 at NatWest and Metro Bank  
-**Purpose**: Demonstrate hands-on capability to build enterprise cloud security solutions for investment banking
+**Purpose**: Demonstrate hands-on technical capabilities for cloud security roles in investment banking  
+**Status**: Personal reference implementations showcasing banking security patterns
 
-**Note**: This portfolio represents reference implementations. Actual production code from NatWest/Metro Bank is proprietary and not included. These projects demonstrate the same patterns, practices, and security rigor applied in those environments.
+**Disclaimer**: These projects are personal reference implementations demonstrating technical capabilities developed through professional experience. They do not contain proprietary information, code, configurations, or data from current or former employers. All implementations are built independently to showcase professional skills for career advancement purposes.
 
 ---
 
 ## 💡 Why I Built This Portfolio
 
-After 10+ years in financial services cloud transformations, I'm targeting **investment banking cloud security roles** where I can apply my experience across **multiple clients and sectors**. 
+As a Senior AWS Solutions Architect currently at Metro Bank, I'm targeting **investment banking cloud security roles** where I can apply my financial services experience across multiple clients and trading environments.
 
-This portfolio serves three purposes:
+This portfolio serves to:
 
-1. **Prove I'm hands-on**: Not just an architect who draws diagrams - I write production-grade Terraform and automation
-2. **Show investment banking readiness**: Demonstrates understanding of regulatory requirements, risk management, and security patterns specific to investment banking
-3. **Demonstrate current expertise**: My skills are sharp, I'm current with latest AWS services, and I'm actively engaged in the field
-
-**The goal**: Make the hiring decision easy by showing exactly what I can deliver on day one.
+1. **Prove hands-on capability**: Not just architecture diagrams - actual working Infrastructure as Code
+2. **Show investment banking readiness**: Understanding of regulatory requirements and risk management
+3. **Demonstrate current expertise**: Skills are sharp, I'm current with latest AWS services
+4. **Enable informed hiring decisions**: Clear evidence of what I can deliver on day one
 
 ---
 
